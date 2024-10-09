@@ -20,7 +20,6 @@
      
     <div v-if="(screenWidth < 1366 && screenWidth >= 1024) "class="h-[85.375rem] w-[64rem] flex justify-center">
         <div class="w-full h-full bg-neutral-400 flex justify-center items-center">
-
             <span class="text-white text-5xl font-bold">BANNER</span>
         </div>
         
